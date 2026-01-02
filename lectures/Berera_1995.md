@@ -13,13 +13,13 @@ arXiv:astro-ph/9509049v1
 ## 3. Modelos y supuestos
 - **Fondo Cosmológico:**
 - **Potencial:**
-- **Forma de $\gamma$:**
+- **Forma de $\Gamma$:**
 - **Aproximaciones:**
 
 ## 4. Ecuaciones clave
 - **Ecuaciones de fondo:**
 - **Slow-roll:**
-- **Perturbaciones: **
+- **Perturbaciones:**
 - **Observables:**
 
 ## 5. Resultados
