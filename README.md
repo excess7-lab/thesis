@@ -1,4 +1,4 @@
-# Warm Inflation with \alpha atractors
+# Warm Inflation with $alpha$ atractors
 This repository contains the numerical and analytical implementation of 
 warm inflation model based on \alpha -attractor potential, aimed at studying 
 the impact of dissipative dynamics on cosmological observables.
